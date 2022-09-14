@@ -26,5 +26,5 @@ img {
 }
 
 img:hover {
-    transform: scale(3.5) translate(0,27.5px);
+    transform: scale(4.5) translate(0,27.5px);
 }
