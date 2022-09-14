@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(36, 36, 36);
+}
+.container {
+    margin-top: 120px;
+    margin-left: 110px;
+}
+
+.visual {
+    color:white;
+    font-size: 72px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: rown;
+    margin-top: -13px;
+}
+
+img {
+    max-width: 90px;
+    transition: transform 3.2s;
+    margin-bottom: -4px;
+}
+
+img:hover {
+    transform: scale(3.5) translate(0,27.5px);
+}
