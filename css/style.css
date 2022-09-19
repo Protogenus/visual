@@ -1,6 +1,7 @@
 body {
     background-color: rgb(36, 36, 36);
     height: 1200px;
+    text-align: center;
 }
 .container {
     margin-top: 120px;
