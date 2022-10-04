@@ -24,7 +24,3 @@ img {
     transition: transform 3.2s;
     margin-bottom: -4px;
 }
-
-img:hover {
-    transform: scale(4.5) translate(0,27.5px);
-}
